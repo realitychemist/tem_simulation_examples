@@ -1,0 +1,494 @@
+'[Main Parameters]'
+Version 2019101801
+10000
+10
+5
+0
+0
+1
+0
+0
+5
+1
+2
+2
+0
+1
+1
+1
+1
+E:\Users\Steve\BSSN_NBED\
+BSSN_HD_Ama2_100
+9
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+300
+300
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.1416
+1
+1
+256
+256
+0
+1.0009
+1.0016
+0
+0
+5
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+384
+270
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+256
+256
+0
+1
+1
+0
+0
+'[StructureView Parameters]'
+Version 2015022301
+16777215
+0
+8421504
+0
+128
+1
+2
+0.02
+0.08
+0
+'[Microscope Parameters]'
+Version 2019091601
+17.9
+0.05
+0
+0
+0
+30
+3
+2
+200
+0.00132728
+0.04
+7
+0
+0
+0
+0
+0
+0
+1
+1
+24
+0 0 0
+1 0 0
+2 0 0
+3 0 0
+4 0 0
+5 0 0
+6 0 0
+7 0 0
+8 0 0
+9 0 0
+10 0 0
+11 0 0
+12 0 0
+13 0 0
+14 0 0
+15 0 0
+16 0 0
+17 0 0
+18 0 0
+19 0 0
+20 0 0
+21 0 0
+22 0 0
+23 0 0
+''
+6
+'[Detector Parameters]'
+Version 2021061601
+BF
+0
+20
+0
+0
+0
+0
+
+0
+'[Detector Parameters]'
+Version 2021061601
+HAADF
+70
+200
+0
+0
+0
+0
+
+0
+'[Detector Parameters]'
+Version 2021061601
+DF4-A
+20
+70
+0
+90
+0
+0
+
+0
+'[Detector Parameters]'
+Version 2021061601
+DF4-B
+20
+70
+90
+180
+0
+0
+
+0
+'[Detector Parameters]'
+Version 2021061601
+DF4-C
+20
+70
+180
+270
+0
+0
+
+0
+'[Detector Parameters]'
+Version 2021061601
+DF4-D
+20
+70
+270
+360
+0
+0
+
+0
+'[Multislice Parameters]'
+Version 2021060901
+0.00399221
+0.00401481
+0
+0
+0
+0
+0.766504
+0.542
+0
+0
+60
+77
+54
+0
+0
+1
+0
+0
+1
+0
+0.1
+0
+0
+0
+0
+0
+0
+0
+0.766504
+0.542
+11.4976
+1
+1
+1
+1
+22
+22
+60
+100
+20
+0
+192
+135
+C:\Users\charles\Documents\GitHub\tem_simulation_examples\Silicon.cif
+0
+0
+0
+0
+0
+128
+128
+E:\Users\Steve\BSSN_NBED\
+BSSN_HD_Ama2_100
+4
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.1416
+1
+0
+616
+432
+0
+1.0009
+1.0016
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+4500
+4500
+0
+1
+1
+0
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.1416
+1
+4
+9000
+9000
+1
+1.0009
+2.7488
+0.104
+0
+'[ProbeView Parameters]'
+Version 2019030601
+0
+0
+0
+0
+3.14159
+1
+0
+400
+400
+0
+1
+1
+0
+0

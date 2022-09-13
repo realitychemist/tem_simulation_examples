@@ -1,0 +1,47 @@
+{
+    "name" : "C:\Users\charles\Documents\GitHub\tem_simulation_examples\drprobe\output\4D\Si110",
+    "scheme" : "scanned diffraction",
+    "data_type" : "float32",
+    "data_dim" : [1, 540, 768],
+    "data_dim_names" : ["thickness", "k_y", "k_x"],
+    "beam_energy_ev" : 200000.0,
+    "file_folder" : "C:\Users\charles\Documents\GitHub\tem_simulation_examples\drprobe\output\4D\",
+    "file_name" : "Si110",
+    "file_extension" : ".dat",
+    "scanned_diffraction" : False,
+    "averaged_diffraction" : True,
+    "averaged_diffraction_file" : "C:\Users\charles\Documents\GitHub\tem_simulation_examples\drprobe\output\4D\Si110_avg.dat",
+    "scan" : 
+    {
+        "dims" : [54, 77],
+        "dim_names" : ["y", "x"],
+        "step" : [0.010037, 0.0099546],
+        "offset" : [0, 0],
+        "units" : "nm",
+        "rotation" : 0,
+    },
+    "diffraction" : 
+    {
+        "dims" : [540, 768],
+        "dim_names" : ["k_y", "k_x"],
+        "step" : [0.461255, 0.326156],
+        "offset" : [270, 384],
+        "units" : "1/nm",
+        "num_qep_config" : 10,
+    },
+    "thickness" : 
+    {
+        "dims" : [1],
+        "dim_names" : ["thickness"],
+        "step" : [11.4976],
+        "offset" : 0,
+        "units" : "nm",
+    },
+    "source" : 
+    {
+        "name" : "Dr. Probe GUI",
+        "version" : "1.10.2",
+        "type" : "simulation",
+        "timestamp" : "2022/09/12 21:32:53",
+    }
+}

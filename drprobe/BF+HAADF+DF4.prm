@@ -1,0 +1,9 @@
+'[Detector Parameters]'                    # detector parameter block
+2016021801                                 # detector parameter file version
+6                                          # number of detectors defined below = number of lines to read
+0.00, 20.00, 0.00, 0.00, 0.00, 0.00, 'BF', ''          # detector definition: theta1, theta2 [mrad], phi0, phi1 [deg], dcx, dcy [mrad], name, sensitivity profile
+70.00, 200.00, 0.00, 0.00, 0.00, 0.00, 'HAADF', ''          # detector definition: theta1, theta2 [mrad], phi0, phi1 [deg], dcx, dcy [mrad], name, sensitivity profile
+20.00, 70.00, 0.00, 90.00, 0.00, 0.00, 'DF4-A', ''          # detector definition: theta1, theta2 [mrad], phi0, phi1 [deg], dcx, dcy [mrad], name, sensitivity profile
+20.00, 70.00, 90.00, 180.00, 0.00, 0.00, 'DF4-B', ''          # detector definition: theta1, theta2 [mrad], phi0, phi1 [deg], dcx, dcy [mrad], name, sensitivity profile
+20.00, 70.00, 180.00, 270.00, 0.00, 0.00, 'DF4-C', ''          # detector definition: theta1, theta2 [mrad], phi0, phi1 [deg], dcx, dcy [mrad], name, sensitivity profile
+20.00, 70.00, 270.00, 360.00, 0.00, 0.00, 'DF4-D', ''          # detector definition: theta1, theta2 [mrad], phi0, phi1 [deg], dcx, dcy [mrad], name, sensitivity profile
