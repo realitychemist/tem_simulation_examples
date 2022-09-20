@@ -28,11 +28,11 @@ ase.visualize.view(ase_unit_cell)
 import ase.build
 
 # Now we'll tell ASE to turn that unit cell into a 110 surface
-atoms = ase.build.surface(ase_unit_cell, (1, 1, 0), layers=1, periodic=True)
+atoms = ase.build.surface(ase_unit_cell, (1, 1, 0), layers=10, periodic=True)
 
 # And finally we'll multiply out our surface to the dimensions we want
-# (We could have also set the thickness in the previous line by setting layers=10)
-model = atoms * (2, 2, 10)
+# We could multiply in Z here instead of doing layers=10 above, but it can cause bugs
+model = atoms * (2, 2, 1)
 
 ase.visualize.view(model)
 
@@ -144,4 +144,4 @@ bf.show()
 # Let's take the average along the scan dimensions and look at the PACBED; it won't look very good
 # since the simulation conditions weren't optimal for it
 
-pd_measurement[0, 0].show(cmap='inferno', power=.2)
+pd_measurement.sum((0, 1)).show(cmap='inferno', power=0.3)
